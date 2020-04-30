@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/imperial-bank/static/css/main.d1b05096.chunk.css",
+    "main.js": "/imperial-bank/static/js/main.511f0793.chunk.js",
+    "main.js.map": "/imperial-bank/static/js/main.511f0793.chunk.js.map",
+    "runtime-main.js": "/imperial-bank/static/js/runtime-main.5c73f455.js",
+    "runtime-main.js.map": "/imperial-bank/static/js/runtime-main.5c73f455.js.map",
+    "static/js/2.c762393a.chunk.js": "/imperial-bank/static/js/2.c762393a.chunk.js",
+    "static/js/2.c762393a.chunk.js.map": "/imperial-bank/static/js/2.c762393a.chunk.js.map",
+    "index.html": "/imperial-bank/index.html",
+    "precache-manifest.3ad73d97e69966b42265d7ad8661321d.js": "/imperial-bank/precache-manifest.3ad73d97e69966b42265d7ad8661321d.js",
+    "service-worker.js": "/imperial-bank/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/imperial-bank/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c762393a.chunk.js.LICENSE.txt": "/imperial-bank/static/js/2.c762393a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/imperial-bank/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c73f455.js",
+    "static/js/2.c762393a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.511f0793.chunk.js"
+  ]
+}
